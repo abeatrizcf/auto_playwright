@@ -1,0 +1,17 @@
+{
+  "name": "exemplobdd",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0",
+    "@playwright/test": "^1.56.1",
+    "@types/node": "^24.9.2",
+    "javascript": "^1.0.0",
+    "playwright-bdd": "^8.4.1"
+  }
+}
