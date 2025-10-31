@@ -11,7 +11,7 @@ const { defineBddConfig } = require('playwright-bdd');
 const bddConfig = defineBddConfig({
   paths: ['features/*.feature'],
   // ATENÇÃO: Verifique se o nome da pasta é 'step_definitions' (com 'i')
-  require: ['step_definitions/busca_copera.steps.js'], 
+  require: ['step_definitions/busca.steps.js'], 
 });
 /**
  * @see https://playwright.dev/docs/test-configuration
