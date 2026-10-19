@@ -1,6 +1,6 @@
 #  Automação de Testes com Playwright
 
-Projeto de automação de testes end-to-end (E2E) desenvolvido para praticar e aplicar conceitos de **Quality Assurance (QA)**, com foco na validação de comportamentos de aplicações web.
+Projeto de automação de testes desenvolvido para praticar e aplicar conceitos de **Quality Assurance (QA)**, com foco na validação de comportamentos de aplicações web.
 
 
 
@@ -36,12 +36,6 @@ Essa organização facilita a compreensão dos cenários e a comunicação entre
 - Verificação de comportamentos esperados.
 - Aplicação de BDD na estruturação dos testes.
 
-##  Sobre o projeto
 
-Este repositório representa uma etapa prática do meu desenvolvimento em QA, unindo conhecimentos de programação e qualidade de software para construir testes automatizados mais organizados e reutilizáveis.
-
-Tenho interesse em aprofundar meus conhecimentos em automação de testes, estratégias de qualidade, análise de falhas e melhoria contínua de aplicações.
-
----
 
 *Projeto desenvolvido para fins de aprendizado e desenvolvimento de habilidades em Quality Assurance e automação de testes.*
