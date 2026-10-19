@@ -1,4 +1,4 @@
-Feature: Busca na web pelo Copera AI
+Feature: Busca na web pelo site oficial do Playwright
 
 Como uma usuária da internet
 Eu quero pesquisar pelo playwrither no navegador
