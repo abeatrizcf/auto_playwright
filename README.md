@@ -27,16 +27,6 @@ A estrutura baseada em BDD permite organizar os testes em cenários legíveis, u
 
 Essa organização facilita a compreensão dos cenários e a comunicação entre as etapas de planejamento e implementação dos testes.
 
-## ⚙️ Pré-requisitos
-
-Para executar o projeto, é necessário ter:
-
-- [Node.js](https://nodejs.org/) instalado.
-- npm ou outro gerenciador de pacotes compatível com o projeto.
-- Navegadores necessários para a execução do Playwright.
-
-
-
 ##  Conhecimentos aplicados
 
 - Fundamentos de Quality Assurance (QA).
